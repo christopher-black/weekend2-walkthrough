@@ -2,7 +2,8 @@
 Project description goes here.
 
 ## Setup instructions
-If you download this project, use the following terminal commands to start the server:
+If you fork this project, use the following terminal commands to start the server:
+
 `npm install`
 
 `npm start`
